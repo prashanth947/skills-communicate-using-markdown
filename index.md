@@ -6,3 +6,8 @@
 ###### This is testing of the level6 heading
 
 ![welcome to football campaig](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
